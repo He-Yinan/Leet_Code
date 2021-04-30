@@ -32,20 +32,3 @@ string = "HelloWorld"
 result = Solution.toLowerCase(string)
 print(result)
 ```
-
-<br/>
-
-# Performance
-## Runtime: 
-32 ms, faster than 40.34% of Python3 online submissions for To Lower Case.
-
-## Memory Usage:
-14.1 MB, less than 66.22% of Python3 online submissions for To Lower Case.
-
-
-
-
-
-
-
-
