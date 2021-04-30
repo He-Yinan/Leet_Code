@@ -1,6 +1,5 @@
 # **709. To Lower Case**
 
-<br/>
 
 # Question
 Implement function ToLowerCase() that has a string parameter str, and returns the same string in lowercase.\
