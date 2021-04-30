@@ -18,7 +18,6 @@ Difficulty: Easy
 <br/>
 
 # Solution
-
 ## Thought process:
 Use lower() method to convert all uppercase characters in a string to lowercase and return it. <br/><br/>
 
@@ -37,6 +36,16 @@ string = "HelloWorld"
 result = Solution().toLowerCase("Hello")
 print(result)
 ```
+
+<br/>
+
+# Performance
+## Runtime: 
+12 ms, faster than 90.75% of Python online submissions for To Lower Case.
+
+## Memory Usage:
+13.3 MB, less than 83.67% of Python online submissions for To Lower Case.
+
 
 
 
