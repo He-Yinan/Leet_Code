@@ -15,6 +15,12 @@ Difficulty: Easy
 
 <br/>
 
+# Constraints
+- 1 <= nums.length <= 105
+- -109 <= nums[i] <= 109
+
+<br/>
+
 # Solution
 ## Thought process:
 1. Convert nums list to a set (set_nums) to remove duplicates
