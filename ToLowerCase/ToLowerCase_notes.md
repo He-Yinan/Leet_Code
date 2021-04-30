@@ -37,10 +37,10 @@ print(result)
 
 # Performance
 ## Runtime: 
-12 ms, faster than 90.75% of Python online submissions for To Lower Case.
+32 ms, faster than 40.34% of Python3 online submissions for To Lower Case.
 
 ## Memory Usage:
-13.3 MB, less than 83.67% of Python online submissions for To Lower Case.
+14.1 MB, less than 66.22% of Python3 online submissions for To Lower Case.
 
 
 
