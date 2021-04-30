@@ -8,5 +8,5 @@ class Solution(object):
 
 # test
 string = "HelloWorld"
-result = Solution().toLowerCase("Hello")
+result = Solution().toLowerCase(string)
 print(result)
