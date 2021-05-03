@@ -1,4 +1,4 @@
-# **217. Contains Duplicate**
+# **392. Is Subsequence**
 
 # Question
 
