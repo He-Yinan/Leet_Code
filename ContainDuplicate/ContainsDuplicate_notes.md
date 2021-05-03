@@ -28,7 +28,7 @@ Difficulty: Easy
 3. If length of set is shorter than length of list, it means that some elements (duplicates) are removed from the list when converting to set. Return True.
 4. Else, length of set is the same as length of list, no duplicated elements are removed when list is converted to set. Return False
 <br/><br/>
-- Time complexity: O(1)
+- Time complexity: O(n)
 - Space complexity: O(n)
 <br/><br/>
 
