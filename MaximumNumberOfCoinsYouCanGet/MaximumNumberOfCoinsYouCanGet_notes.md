@@ -1,4 +1,4 @@
-# **217. Contains Duplicate**
+# **1561. Maximum Number of Coins You Can Get**
 
 # Question
 There are 3n piles of coins of varying size, you and your friends will take piles of coins as follows:\
