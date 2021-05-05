@@ -2,6 +2,7 @@
 | #    | Title                                  | Difficulty  | Language|
 | ---- | -------------------------------------- |-------------| --------|
 | 58   | Length of Last Word                    | Easy        | Python  |
+| 83   | Remove Duplicates from Sorted List     | Easy        | Python  |
 | 217  | Contains Duplicate                     | Easy        | Python  |
 | 392  | Is Subsequence                         | Easy        | Python  |
 | 709  | To Lower Case                          | Easy        | Python  |
