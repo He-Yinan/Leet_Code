@@ -1,6 +1,6 @@
 # Leetcode
 
-Number of solutions: 10
+Number of solutions: 11
 
 | #    | Title                                  | Difficulty  | Language|
 | ---- | -------------------------------------- |-------------| --------|
