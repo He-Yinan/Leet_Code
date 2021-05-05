@@ -1,6 +1,7 @@
 # Leetcode
 | #    | Title                                  | Difficulty  | Language|
 | ---- | -------------------------------------- |-------------| --------|
+| 21   | Merge Two Sorted Lists                 | Easy        | Python  |
 | 58   | Length of Last Word                    | Easy        | Python  |
 | 83   | Remove Duplicates from Sorted List     | Easy        | Python  |
 | 217  | Contains Duplicate                     | Easy        | Python  |
