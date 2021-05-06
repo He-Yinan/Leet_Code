@@ -11,6 +11,7 @@ class Solution:
         l3_cur = l3
         carry = 0
         
+        # add l1 nodes and l2 nodes
         while l1_cur != None and l2_cur != None:
             val = carry + l1_cur.val + l2_cur.val
             if val >= 10:
@@ -24,6 +25,7 @@ class Solution:
             l1_cur = l1_cur.next
             l2_cur = l2_cur.next
         
+        # if l1 is longer than l2
         while l1_cur != None:
             val = carry + l1_cur.val
             if val >= 10:
@@ -36,6 +38,7 @@ class Solution:
             l3_cur = l3_cur.next
             l1_cur = l1_cur.next
             
+        # if l2 is longer than l1
         while l2_cur != None:
             val = carry + l2_cur.val
             if val >= 10:
@@ -47,7 +50,8 @@ class Solution:
             l3_cur.next = ListNode(val)
             l3_cur = l3_cur.next
             l2_cur = l2_cur.next
-            
+        
+        # add carry to result
         if carry == 1:
             l3_cur.next = ListNode(1)
         
