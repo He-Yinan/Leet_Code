@@ -14,4 +14,5 @@ Number of solutions: 11
 | 709  | To Lower Case                          | Easy        | Python  |
 | 1561 | Maximum Number of Coins You Can Get    | Medium      | Python  |
 | 1630 | Arithmetic Subarrays                   | Medium      | Python  |
+| 1669 | Merge In Between Linked Lists          | Medium      | Python  |
 | 1684 | Count the Number of Consistent Strings | Easy        | Java    |
