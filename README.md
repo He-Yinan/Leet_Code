@@ -1,11 +1,12 @@
 # Leetcode
 
-Number of solutions: 13<br/>
-Number of Easy solution: 9<br/>
-Number of Medium solution: 4
+Number of solutions: 14 <br/>
+Number of Easy solution: 9 <br/>
+Number of Medium solution: 5
 
 | #    | Title                                  | Difficulty  | Language|
 | ---- | -------------------------------------- |-------------| --------|
+| 2    | Add Two Numbers                        | Medium      | Python  |
 | 19   | Remove Nth Node From End of List       | Medium      | Python  |
 | 21   | Merge Two Sorted Lists                 | Easy        | Python  |
 | 58   | Length of Last Word                    | Easy        | Python  |
