@@ -1,8 +1,8 @@
 # Leetcode
 
-Number of solutions: 16 <br/>
+Number of solutions: 17 <br/>
 Number of Easy solution: 9 <br/>
-Number of Medium solution: 7
+Number of Medium solution: 8
 
 | #    | Title                                          | Difficulty | Language |
 | ---- | ---------------------------------------------- | ---------- | -------- |
@@ -13,6 +13,7 @@ Number of Medium solution: 7
 | 58   | Length of Last Word                            | Easy       | Python   |
 | 66   | Rotate List                                    | Medium     | Python   |
 | 83   | Remove Duplicates from Sorted List             | Easy       | Python   |
+| 187  | Repeated DNA Sequences                         | Medium     | Python   |
 | 203  | Remove Linked List Elements                    | Easy       | Python   |
 | 206  | Reverse Linked List                            | Easy       | Python   |
 | 217  | Contains Duplicate                             | Easy       | Python   |
