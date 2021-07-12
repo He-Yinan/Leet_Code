@@ -15,6 +15,7 @@ Number of Medium solution: 8
 | 83   | Remove Duplicates from Sorted List             | Easy       | Python   |
 | 94   | Binary Tree Inorder Traversal                  | Easy       | Python   |
 | 144  | Binary Tree Preorder Traversal                 | Easy       | Python   |
+| 145  | Binary Tree Postorder Traversal                | Easy       | Python   |
 | 187  | Repeated DNA Sequences                         | Medium     | Python   |
 | 203  | Remove Linked List Elements                    | Easy       | Python   |
 | 206  | Reverse Linked List                            | Easy       | Python   |
