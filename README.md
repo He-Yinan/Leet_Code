@@ -1,7 +1,7 @@
 # Leetcode
 
-Number of solutions: 18 <br/>
-Number of Easy solution: 10 <br/>
+Number of solutions: 19 <br/>
+Number of Easy solution: 11 <br/>
 Number of Medium solution: 8
 
 | #    | Title                                          | Difficulty | Language |
@@ -14,6 +14,7 @@ Number of Medium solution: 8
 | 66   | Rotate List                                    | Medium     | Python   |
 | 83   | Remove Duplicates from Sorted List             | Easy       | Python   |
 | 94   | Binary Tree Inorder Traversal                  | Easy       | Python   |
+| 144  | Binary Tree Preorder Traversal                 | Easy       | Python   |
 | 187  | Repeated DNA Sequences                         | Medium     | Python   |
 | 203  | Remove Linked List Elements                    | Easy       | Python   |
 | 206  | Reverse Linked List                            | Easy       | Python   |
