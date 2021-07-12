@@ -1,7 +1,7 @@
 # Leetcode
 
-Number of solutions: 19 <br/>
-Number of Easy solution: 11 <br/>
+Number of solutions: 20 <br/>
+Number of Easy solution: 12 <br/>
 Number of Medium solution: 8
 
 | #    | Title                                          | Difficulty | Language |
