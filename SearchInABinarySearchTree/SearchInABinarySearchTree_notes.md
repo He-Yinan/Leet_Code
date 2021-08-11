@@ -45,7 +45,7 @@ Note that BST has the following properties:
 <br/>
 
 - Time complexity: O(n) (traverse the BST with n nodes)
-- Space complexity: O(1)
+- Space complexity: O(n) (worst case depth of BST is n)
 <br/><br/>
 
 ## Code:

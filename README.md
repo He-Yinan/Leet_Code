@@ -1,7 +1,7 @@
 # Leetcode
 
-Number of solutions: 22 <br/>
-Number of Easy solution: 14 <br/>
+Number of solutions: 23 <br/>
+Number of Easy solution: 15 <br/>
 Number of Medium solution: 8
 
 | #    | Title                                          | Difficulty | Language | Tags                      |
@@ -19,6 +19,7 @@ Number of Medium solution: 8
 | 187  | Repeated DNA Sequences                         | Medium     | Python   | Set, Sliding Window       |
 | 203  | Remove Linked List Elements                    | Easy       | Python   | Linked List               |
 | 206  | Reverse Linked List                            | Easy       | Python   | Array, Set                |
+| 235  | Lowest Common Ancestor of a Binary Search Tree | Easy       | Python   | Binary Search Tree        |
 | 392  | Is Subsequence                                 | Easy       | Python   | String, Two Pointers      |
 | 617  | Merge Two Binary Trees                         | Easy       | Python   | Binary Tree               |
 | 700  | Search in a Binary Search Tree                 | Easy       | Python   | Binary Search Tree        |
