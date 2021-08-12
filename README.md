@@ -1,7 +1,7 @@
 # Leetcode
 
-Number of solutions: 23 <br/>
-Number of Easy solution: 15 <br/>
+Number of solutions: 24 <br/>
+Number of Easy solution: 16 <br/>
 Number of Medium solution: 8
 
 | #    | Title                                          | Difficulty | Language | Tags                      |
@@ -21,6 +21,7 @@ Number of Medium solution: 8
 | 206  | Reverse Linked List                            | Easy       | Python   | Array, Set                |
 | 235  | Lowest Common Ancestor of a Binary Search Tree | Easy       | Python   | Binary Search Tree        |
 | 392  | Is Subsequence                                 | Easy       | Python   | String, Two Pointers      |
+| 530  | Minimum Absolute Difference in BST             | Easy       | Python   | Binary Search Tree        |
 | 617  | Merge Two Binary Trees                         | Easy       | Python   | Binary Tree               |
 | 700  | Search in a Binary Search Tree                 | Easy       | Python   | Binary Search Tree        |
 | 709  | To Lower Case                                  | Easy       | Python   | String                    |
