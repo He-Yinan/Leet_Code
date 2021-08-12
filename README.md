@@ -1,8 +1,8 @@
 # Leetcode
 
-Number of solutions: 24 <br/>
+Number of solutions: 25 <br/>
 Number of Easy solution: 16 <br/>
-Number of Medium solution: 8
+Number of Medium solution: 9
 
 | #    | Title                                          | Difficulty | Language | Tags                      |
 | ---- | ---------------------------------------------- | ---------- | -------- | ------------------------- |
@@ -25,7 +25,10 @@ Number of Medium solution: 8
 | 617  | Merge Two Binary Trees                         | Easy       | Python   | Binary Tree               |
 | 700  | Search in a Binary Search Tree                 | Easy       | Python   | Binary Search Tree        |
 | 709  | To Lower Case                                  | Easy       | Python   | String                    |
+| 1302 | Deepest Leaves Sum                             | Medium     | Python   | Binary Tree               |
 | 1561 | Maximum Number of Coins You Can Get            | Medium     | Python   | Math, Sorting             |
 | 1630 | Arithmetic Subarrays                           | Medium     | Python   | Array, Sorting            |
 | 1669 | Merge In Between Linked Lists                  | Medium     | Python   | Linked List               |
 | 1684 | Count the Number of Consistent Strings         | Easy       | Java     | Set                       |
+
+111
