@@ -1,8 +1,8 @@
 # Leetcode :woman_technologist::snowflake:
 
-Number of solutions: :two::seven: <br/>
+Number of solutions: :two::eight: <br/>
 Number of Easy solution: :one::six: <br/>
-Number of Medium solution: :one::one:
+Number of Medium solution: :one::two:
 
 | #    | Title                                          | Difficulty | Language | Tags                         | Solution           | Notes              |
 | ---- | ---------------------------------------------- | ---------- | -------- | ---------------------------- | ------------------ | ------------------ |
