@@ -1,8 +1,8 @@
 # Leetcode :woman_technologist::snowflake:
 
-Number of solutions: :two::six: <br/>
+Number of solutions: :two::seven: <br/>
 Number of Easy solution: :one::six: <br/>
-Number of Medium solution: :one::zero:
+Number of Medium solution: :one::one:
 
 | #    | Title                                          | Difficulty | Language | Tags                      | Solution           | Notes              |
 | ---- | ---------------------------------------------- | ---------- | -------- | ------------------------- | ------------------ | ------------------ |
@@ -22,6 +22,7 @@ Number of Medium solution: :one::zero:
 | 206  | Reverse Linked List                            | Easy       | Python   | Array, Set                | :white_check_mark: | :white_check_mark: |
 | 235  | Lowest Common Ancestor of a Binary Search Tree | Easy       | Python   | Binary Search Tree        | :white_check_mark: | :white_check_mark: |
 | 392  | Is Subsequence                                 | Easy       | Python   | String, Two Pointers      | :white_check_mark: | :white_check_mark: |
+| 513  | Find Botton Left Tree Value                    | Medium     | Python   | BFS, Binary Tree          | :white_check_mark: | :white_check_mark: |
 | 530  | Minimum Absolute Difference in BST             | Easy       | Python   | Binary Search Tree        | :white_check_mark: | :white_check_mark: |
 | 617  | Merge Two Binary Trees                         | Easy       | Python   | Binary Tree               | :white_check_mark: | :white_check_mark: |
 | 700  | Search in a Binary Search Tree                 | Easy       | Python   | Binary Search Tree        | :white_check_mark: | :white_check_mark: |
