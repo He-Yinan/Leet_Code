@@ -23,6 +23,7 @@ Number of Medium solution: :one::seven:
 | 187  | Medium     | Python   | Set, Sliding Window                    | :white_check_mark: | :white_check_mark: |
 | 203  | Easy       | Python   | Linked List                            | :white_check_mark: | :white_check_mark: |
 | 206  | Easy       | Python   | Array, Set                             | :white_check_mark: | :white_check_mark: |
+| 209  | Medium     | Python   | Array, Sliding Window                  | :white_check_mark: | :x:                |
 | 226  | Easy       | Python   | Binary Tree                            | :x:                | :x:                |
 | 234  | Easy       | Python   | Linked List, Two Pointers              | :x:                | :x:                |
 | 235  | Easy       | Python   | Binary Search Tree                     | :white_check_mark: | :white_check_mark: |
@@ -63,6 +64,7 @@ Number of Medium solution: :one::seven:
 | 187  | Repeated DNA Sequences                                             |
 | 203  | Remove Linked List Elements                                        |
 | 206  | Reverse Linked List                                                |
+| 209  | Minimum Size Subarray Sum                                          |
 | 226  | Invert Binary Tree                                                 |
 | 234  | Palindrome Linked List                                             |
 | 235  | Lowest Common Ancestor of a Binary Search Tree                     |
