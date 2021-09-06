@@ -1,8 +1,8 @@
 # Leetcode :woman_technologist::snowflake:
 
-Number of solutions: :three::seven: <br/>
+Number of solutions: :three::eight: <br/>
 Number of Easy solution: :one::nine: <br/>
-Number of Medium solution: :one::eight:
+Number of Medium solution: :one::nine:
 
 ---
 | #    | Difficulty | Language | Tags                                   | Solution           | Notes              |
@@ -24,6 +24,7 @@ Number of Medium solution: :one::eight:
 | 203  | Easy       | Python   | Linked List                            | :white_check_mark: | :white_check_mark: |
 | 206  | Easy       | Python   | Array, Set                             | :white_check_mark: | :white_check_mark: |
 | 209  | Medium     | Python   | Array, Sliding Window                  | :white_check_mark: | :x:                |
+| 215  | Medium     | Python   | Array, Quickselect                     | :white_check_mark: | :x:                |
 | 226  | Easy       | Python   | Binary Tree                            | :x:                | :x:                |
 | 234  | Easy       | Python   | Linked List, Two Pointers              | :x:                | :x:                |
 | 235  | Easy       | Python   | Binary Search Tree                     | :white_check_mark: | :white_check_mark: |
@@ -65,6 +66,7 @@ Number of Medium solution: :one::eight:
 | 203  | Remove Linked List Elements                                        |
 | 206  | Reverse Linked List                                                |
 | 209  | Minimum Size Subarray Sum                                          |
+| 215  | Kth Largest Element in an Array                                    |
 | 226  | Invert Binary Tree                                                 |
 | 234  | Palindrome Linked List                                             |
 | 235  | Lowest Common Ancestor of a Binary Search Tree                     |
